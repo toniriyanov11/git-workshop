@@ -4,4 +4,4 @@ coba-coba
 
 cobalagi
 
-try
+tried
